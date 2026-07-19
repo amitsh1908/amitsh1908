@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Amit Sharma — Software Engineer and AWS Certified Solutions Architect" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Amit Sharma — Software Engineer and AWS Certified Solutions Architect" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
   <a href="https://www.linkedin.com/in/amitsh1908/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amitsh1908@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amit" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
