@@ -3,7 +3,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0a1d6a7bf54c4f4f893f900d1ac9afdb">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Verify AWS Certified Solutions Architect Associate credential" />
+  </a>
   <a href="https://www.linkedin.com/in/amitsh1908/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
