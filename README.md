@@ -1,53 +1,110 @@
-<h1 align="center">Hi , I'm Amit Sharma</h1>
-<h3 align="center">
-Backend & Cloud Engineer building scalable, production-ready systems on AWS with strong foundations in networking and infrastructure.
-</h3>
-
----
-
-## 🚀 Core Expertise
-
-- Backend API Architecture (RESTful Services)
-- Cloud Infrastructure Design (AWS)
-- VPC, Subnets, Route Tables, Security Groups
-- Containerization & Deployment (Docker)
-- Linux Server Administration
-- Database Design & Optimization
-- System Scalability & High Availability
-
----
-
-## 💻 Backend Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
----
-
-## ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
-![VPC](https://img.shields.io/badge/Amazon%20VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📫 Connect with me
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Amit Sharma — Software Engineer and AWS Certified Solutions Architect" />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amitsh1908/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <a href="https://www.linkedin.com/in/amitsh1908/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:amitsh1908@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amit" />
   </a>
+</p>
+
+## 👋 About me
+
+I'm a **Software Engineer Intern at Seapos Payment Services**, building and maintaining full-stack web applications across frontend, backend, cloud, and delivery workflows.
+
+- ⚙️ I build maintainable backend services with **Java, Spring Boot, Node.js, REST APIs, SQL, and MongoDB**
+- 🎨 I develop responsive product interfaces with **React and JavaScript**
+- ☁️ I support cloud and delivery workflows with **AWS, Docker, Jenkins, GitHub, CI/CD, and Linux**
+- 🏅 I'm an **AWS Certified Solutions Architect – Associate**
+- 🧭 My earlier infrastructure and network-operations experience shapes how I think about reliability, observability, and deployment
+- 🤝 I'm open to collaborating on full-stack, backend, cloud, and DevOps projects
+
+## 🧰 Engineering toolkit
+
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring Boot, Node.js and Express" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="React, JavaScript, HTML and CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Delivery</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,github&theme=dark" alt="AWS, Docker, Jenkins, Linux, Git and GitHub" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitsh1908/Authx">🔐 AuthX</a></h3>
+      <p>A secure authentication backend with JWT authentication, session tracking, and admin-level controls.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitsh1908/aws-multi-vpc-private-cloud">☁️ Multi-VPC Private Cloud</a></h3>
+      <p>A secure AWS network architecture with public/private subnets, bastion host, NAT gateway, and VPC peering.</p>
+      <p><code>AWS</code> <code>VPC</code> <code>EC2</code> <code>Networking</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitsh1908/5gSiteAnalysis">📡 5G Site Analysis</a></h3>
+      <p>Clusters and analyzes 5G tower sites with K-Means, visualizations, and data-driven coverage recommendations.</p>
+      <p><code>Python</code> <code>K-Means</code> <code>Data Analysis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitsh1908/Inventory-React-Native-App">📦 Inventory Mobile App</a></h3>
+      <p>A React Native project focused on practical mobile inventory workflows.</p>
+      <p><code>React Native</code> <code>JavaScript</code> <code>Mobile</code></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub snapshot
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitsh1908&theme=github_dark" alt="Amit's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsh1908&theme=github_dark" alt="Amit's repositories by language" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amitsh1908&hide_border=true&background=00000000&ring=FF9900&fire=FF9900&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Amit's GitHub contribution streak" />
+</div>
+
+## 🐍 Contribution journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitsh1908/amitsh1908/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitsh1908/amitsh1908/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/amitsh1908/amitsh1908/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<p align="center">
+  <strong>Building reliable software, one thoughtful commit at a time.</strong><br />
+  <sub>Delhi, India · Open to full-stack, backend, cloud, and DevOps opportunities</sub>
 </p>
