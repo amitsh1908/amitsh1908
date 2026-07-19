@@ -37,7 +37,7 @@
     <rect x="130" y="184" width="940" height="3" rx="1.5" fill="url(#accent)">
       <animate attributeName="width" values="0;940;940" dur="3s" repeatCount="indefinite"/>
     </rect>
-    <text x="130" y="235" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25">Software Engineer  ·  Full-Stack Developer  ·  Cloud Builder</text>
+    <text x="130" y="235" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25">Software Engineer  ·  Full-Stack Developer  ·  Cloud &amp; DevOps</text>
     <text x="130" y="284" fill="#FFB84D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">React  /  Spring Boot  /  Node.js  /  Java  /  AWS</text>
     <g transform="translate(1000 250)" fill="none" stroke="url(#accent)" stroke-width="4">
       <path d="M-42 0L0-42L42 0L0 42Z" opacity=".75">

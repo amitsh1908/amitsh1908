@@ -23,6 +23,12 @@ I'm a **Software Engineer Intern at Seapos Payment Services**, building and main
 - 🧭 My earlier infrastructure and network-operations experience shapes how I think about reliability, observability, and deployment
 - 🤝 I'm open to collaborating on full-stack, backend, cloud, and DevOps projects
 
+## 🛠️ Currently building privately
+
+I'm contributing to **[Raynix Engine](https://github.com/Raynix-Engine)**, a private platform initiative centered on a web portal, control-plane services, and connected software agents. My work spans full-stack engineering, service integration, and the operational workflows needed to manage distributed components reliably.
+
+> The repositories are private, so this profile intentionally shares the product direction without exposing internal architecture or implementation details.
+
 ## 🧰 Engineering toolkit
 
 <table>
